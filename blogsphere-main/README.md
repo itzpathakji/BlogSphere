@@ -70,3 +70,4 @@ To run the project locally:
 2. Install dependencies using `npm install`.
 3. Set up environment variables including database credentials and API keys.
 4. Start the development server using `npm run dev`.
+
